@@ -1,4 +1,4 @@
-package com.Codegnan;
+package com.codegnan;
 public class Pack
 {
 public static void main(String args[])
